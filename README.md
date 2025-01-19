@@ -5,9 +5,13 @@ I’m thrilled to present my latest project on Walmart Sales Analysis using Powe
 
 🔍 𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐝:
 1.Actual demand vs forcasted demand 📉
+
 2.Average Sale 💰
+
 3.Age Distribution 👥
+
 4.Inventroy stock🏢
+
 5.Weather Conditon 
 
 
