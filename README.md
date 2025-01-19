@@ -16,10 +16,12 @@ I’m thrilled to present my latest project on Walmart Sales Analysis using Powe
 
 
 Dataset overview🤔
+
 Walmart is struggling to manage its inventory effectively across its many stores worldwide. The challenge is balancing stock levels—ensuring there’s enough inventory to meet customer demand without overstocking, which leads to excess costs, or understocking, which causes missed sales. External factors like weather and promotions further complicate this task
 
 
 Tools and Technologies💻✨
+
 To bring this analysis to life, I used Power BI, leveraging its robust capabilities to visualize and interpret the data. Here are the key technologies and techniques I employed:
 
 
@@ -35,14 +37,23 @@ Create Parameters.
 📈 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
 
 1.Product Performance: Among all product categories, TVs have generated the highest sales volume.
+
 2.Payment Methods: While credit cards are the most commonly used payment method, digital wallets have contributed to the highest sales figures.
+
 3.Customer Demographics: The 45-60 age group represents the largest customer segment and also drives higher sales compared to other age groups.
+
 4.Category Performance: The electronics category consistently produces the highest sales figures.
+
 5.Seasonal Trends: August saw the highest sales quantity with a total of 656 units sold, while September recorded the lowest sales volume.
+
 6.Forecast Accuracy: The actual demand consistently exceeded the forecasted demand, indicating a positive sales growth trend beyond expectations.
+
 7.Weather Impact: Sales performance tends to decline during rainy weather conditions.
+
 8.Day of the Week Trends: Sales are typically lower on Fridays and Sundays, while Thursdays and Mondays exhibit the highest sales volumes.
+
 9.Store Performance: The Los Angeles store generated the highest sales, while the Miami and New York stores underperformed in comparison.
+
 
 
 💡 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:
